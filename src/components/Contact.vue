@@ -1,6 +1,6 @@
 <template>
   <section>
-    <div class="container mx-auto px-4 mt-16">
+    <div class="container mx-auto px-4 mt-16" id="contact">
       <header>
         <span
           class="absolute -top-10 left-1/2 transform -translate-x-1/2 w-20 h-20 rounded-full bg-pink-100 opacity"

@@ -6,6 +6,7 @@
   <About/>
   <Specialist/>
   <Contact/>
+  <Footer/>
  </div>
  </template>
  <script setup>
@@ -17,6 +18,7 @@ import Service from '../src/components/Service.vue';
 import About from '../src/components/About.vue';
 import Specialist from './components/Specialist.vue';
 import Contact from './components/Contact.vue';
+import Footer from './components/Footer.vue';
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 

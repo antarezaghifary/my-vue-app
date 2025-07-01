@@ -57,7 +57,7 @@ import { Icon } from '@iconify/vue';
 import { ref } from 'vue';
 const navLinks =ref([
     {href:'#home',label:'Home'},
-    {href:'#service',label:'Service'},
+    {href:'#services',label:'Service'},
     {href:'#about',label:'About'},
     {href:'#specialists',label:'Specialists'},
     {href:'#contact',label:'Contact'},
